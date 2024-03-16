@@ -1,6 +1,7 @@
 [
     {"id" : "1",
     "hastag" : "อวดสัตว์เลี้ยง",
+    "view" : "342.8K",
     "uri" : ["https://raw.githubusercontent.com/glucosejsl7/Data-source/main/search/Hastag/pets1.jpg",
             "https://raw.githubusercontent.com/glucosejsl7/Data-source/main/search/Hastag/pets2.jpg",
             "https://raw.githubusercontent.com/glucosejsl7/Data-source/main/search/Hastag/pets3.jpg",
@@ -15,6 +16,7 @@
 
     {"id" : "2",
     "hastag" : "ธรรมชาติ",
+    "view" : "765.8K",
     "uri" : ["https://raw.githubusercontent.com/glucosejsl7/Data-source/main/search/Hastag/natural1.jpg",
             "https://raw.githubusercontent.com/glucosejsl7/Data-source/main/search/Hastag/natural2.jpg",
             "https://raw.githubusercontent.com/glucosejsl7/Data-source/main/search/Hastag/natural3.jpg",
@@ -30,6 +32,7 @@
 
     {"id" : "3",
     "hastag" : "แฟชั่น",
+    "view" : "1.23M",
     "uri" : ["https://raw.githubusercontent.com/glucosejsl7/Data-source/main/search/Hastag/fashion1.jpg",
             "https://raw.githubusercontent.com/glucosejsl7/Data-source/main/search/Hastag/fashion2.jpg",
             "https://raw.githubusercontent.com/glucosejsl7/Data-source/main/search/Hastag/fashion3.jpg",
@@ -44,6 +47,7 @@
         
     {"id" : "4",
     "hastag" : "ไอเดียแต่งห้องนอน",
+    "view" : "211.9K",
     "uri" : ["https://raw.githubusercontent.com/glucosejsl7/Data-source/main/search/Hastag/fashion10.jpg",
             "https://raw.githubusercontent.com/glucosejsl7/Data-source/main/search/Hastag/fashion2.jpg",
             "https://raw.githubusercontent.com/glucosejsl7/Data-source/main/search/Hastag/fashion3.jpg",
